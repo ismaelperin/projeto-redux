@@ -1,0 +1,5 @@
+#npm install
+#npm run dev
+#npm install redux react-redux @reduxjs/toolkit
+#npm install redux-saga
+#npm install axios
